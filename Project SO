@@ -79,14 +79,14 @@ if ($user_ip == " ") {
             padding: 10px;
         }
         th {
-            background-color: red;
+            background-color: #00CCFF;
             color: black;
         }
         tr:nth-child(even) {
-            background-color: yellow;
+            background-color: #FFCCFF;
         }
 		tr:ntd-child(even) {
-            background-color: yellow;
+            background-color: #FFCCFF;
         }
         h1 {
             margin-bottom: 5;
@@ -112,7 +112,7 @@ if ($user_ip == " ") {
         <tr>
             <td><b>Kelas</b></td>
             <td>:</td>
-            <td>TEKNIK INFORMATIKA B 2014</td>
+            <td>TI B 2014</td>
         </tr>
         <tr>
             <td><b>SISTEM OPERASI</b></td>
